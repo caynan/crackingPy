@@ -1,7 +1,9 @@
 __author__ = 'caynan'
 
 import unittest
-from linked_list import LinkedList
+
+from DataStructures.src.linked_list import LinkedList
+
 
 class MyTestCase(unittest.TestCase):
     def setUp(self):
